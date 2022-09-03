@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['-']
-global.channelYT = ['-'] 
-global.owner = ['6281299878753']// Put your number here
-global.mods = ['6281299878753', '994407430641'] // Want some help?
-global.prems = ['6281299878753'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe']
+global.channelYT = ['https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'] 
+global.owner = ['6285822347348']// Put your number here
+global.mods = ['6285822347348', '994407430641'] // Want some help?
+global.prems = ['6285822347348'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -32,7 +32,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Stiker'
-global.author = 'Weem'
+global.author = 'Kita Semua'
 
 global.multiplier = 20 // The higher, The harder levelup
 
